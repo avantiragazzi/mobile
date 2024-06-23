@@ -8,4 +8,4 @@ https://docs.google.com/spreadsheets/d/1dwhkzsN92vwnNpB0bSIyNDEl9CgTfPPHeW5hmU3r
 ## Defect report Mobile App Testing
 [report .xlsx](https://github.com/user-attachments/files/15944486/report.xlsx)
 ## Testing results report
-[testing results report.txt](https://github.com/user-attachments/files/15944523/testing.results.report.txt)
+[testing results report!.txt](https://github.com/user-attachments/files/15944896/testing.results.report.txt)
