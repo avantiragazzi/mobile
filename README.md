@@ -9,3 +9,6 @@ https://docs.google.com/spreadsheets/d/1dwhkzsN92vwnNpB0bSIyNDEl9CgTfPPHeW5hmU3r
 [report .xlsx](https://github.com/user-attachments/files/15944486/report.xlsx)
 ## Testing results report
 [testing results report!.txt](https://github.com/user-attachments/files/15944896/testing.results.report.txt)
+## traffic interception
+https://github.com/avantiragazzi/mobile/assets/60890056/dd2d0df2-745f-48c2-9289-0180ef153a8b
+[1](https://github.com/avantiragazzi/mobile/assets/60890056/bd70f401-9b00-403a-a24c-79b061df67b2)
